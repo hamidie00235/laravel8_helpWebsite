@@ -84,6 +84,7 @@
 <script src="mail/contact.js"></script>
 
 <!-- Template Javascript -->
-<script src="{{ asset('assets') }}/js/main.js"></script>
-</body>
-</html>
+<script src="{{asset('assets')}}/js/main.js"></script>
+
+
+
