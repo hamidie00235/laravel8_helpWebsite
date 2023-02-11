@@ -1,12 +1,7 @@
 @extends('layouts.home')
 
-@section('title', 'Page Title')
+@section('title', 'admin panel home page')
 
-@section('sidebar')
-    @parent
-
-    <p>This is appended to the master sidebar.</p>
-@endsection
 
 @section('content')
 
